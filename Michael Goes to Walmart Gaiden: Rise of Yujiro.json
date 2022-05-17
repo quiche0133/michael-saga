@@ -4,5 +4,30 @@
   "artist": "Simpacchi, Rukia-dono",
   "author": "Simpacchi, Rukia-dono",
   "cover": "https://i.imgur.com/Q4SGQZB.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Stronger than the Average Man",
+      "volume": "1",
+      "last_updated": "1652817332",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/sUujCif"
+      }
+    },
+    "1": {
+      "title": "Ogre Rising",
+      "volume": "1",
+      "last_updated": "1652817028",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/IZDyhL5"
+      }
+    },
+    "2": {
+      "title": "Rift",
+      "volume": "1",
+      "last_updated": "1652817575",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/MTTIecQ"
+      }
+    }
+  }
 }
