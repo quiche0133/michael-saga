@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Will he, won't he",
-      "volume": "1",
+      "volume": "1 - A Man Named Michael",
       "last_updated": "1652803900",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/of5CdHl"
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "B: The Bleach",
-      "volume": "1",
+      "volume": "1 - A Man Named Michael",
       "last_updated": "1652804937",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/abAnjTD"
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "Not Over Yet!",
-      "volume": "1",
+      "volume": "1 - A Man Named Michael",
       "last_updated": "1652805418",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/MAVeuvP"
@@ -31,10 +31,50 @@
     },
     "4": {
       "title": "Betrayal!",
-      "volume": "1",
+      "volume": "1 - A Man Named Michael",
       "last_updated": "1652806274",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/g08ut3j"
+      }
+    },
+    "5": {
+      "title": "Eyes of Darkness",
+      "volume": "1 - A Man Named Michael",
+      "last_updated": "1652806771",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/Rnhjm1k"
+      }
+    },
+    "6": {
+      "title": "He's Always Been There",
+      "volume": "2 - Pain and Suffering",
+      "last_updated": "1652807255",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/ysjnFX5"
+      }
+    },
+    "7": {
+      "title": "Louis IV",
+      "volume": "2 - Pain and Suffering",
+      "last_updated": "1652807986",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/o4j2itv"
+      }
+    },
+    "8": {
+      "title": "The Truth Hurts",
+      "volume": "2 - Pain and Suffering",
+      "last_updated": "1652808326",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/iW0Yv5D"
+      }
+    },
+    "9": {
+      "title": "Awakened",
+      "volume": "3",
+      "last_updated": "1652808524",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/Eeayhn4"
       }
     }
   }
