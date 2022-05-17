@@ -1,0 +1,41 @@
+{
+  "title": "Michael Goes to Walmart Gaiden: Chifuyu's Revenge",
+  "description": "Five years after the death of his best friend, Asta, Chifuyu is finally coming to terms with it. However, as he digs up the time capsule Asta left behind for him, he learns that there is more to Asta's \"death\" than he had first assumed...",
+  "artist": "Rukia-dono, Simpacchi",
+  "author": "Rukia-dono, Simpacchi",
+  "cover": "https://i.imgur.com/TqWbEfg.png",
+  "chapters": {
+    "1": {
+      "title": "Friendship Never Ends",
+      "volume": "1",
+      "last_updated": "1652813637",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/UJhRNZf"
+      }
+    },
+    "2": {
+      "title": "The truth hurts...",
+      "volume": "1",
+      "last_updated": "1652813981",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/4aHqpeJ"
+      }
+    },
+    "3": {
+      "title": "...but not as much as lies",
+      "volume": "1",
+      "last_updated": "1652814548",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/6bX60dR"
+      }
+    },
+    "4": {
+      "title": "His Friend's Power",
+      "volume": "1",
+      "last_updated": "1652814822",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/3cV5RzN"
+      }
+    }
+  }
+}
