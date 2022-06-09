@@ -1,8 +1,8 @@
 {
   "title": "Michael Goes to Walmart: Main Series",
   "description": "A young boy named Michael heads to Walmart, not knowing of the great adventure that awaits him ahead... Join Michael as he teams up with and fights the likes of legendary characters, such as Vegeta, Louis, Jesse Pinkman, Obito and more!",
-  "artist": "Quidacchi, Rukia-dono, Simpacchi",
-  "author": "Quidacchi, Rukia-dono, Simpacchi",
+  "artist": "Quidacchi, Rukia-dono, Simpacchi, Odacchi",
+  "author": "Quidacchi, Rukia-dono, Simpacchi, Odacchi",
   "cover": "https://i.imgur.com/BeUcto4.jpg",
   "chapters": {
     "1": {
@@ -83,6 +83,14 @@
       "last_updated": "1654661092",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/NffILz6"
+      }
+    },
+    "11": {
+      "title": "Usurper",
+      "volume": "3",
+      "last_updated": "1654809968",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/UMXny6i"
       }
     }
   }
