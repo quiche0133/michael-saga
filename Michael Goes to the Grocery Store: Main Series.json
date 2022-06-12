@@ -71,7 +71,7 @@
     },
     "9": {
       "title": "Awakened",
-      "volume": "3",
+      "volume": "3 - Ubermensch",
       "last_updated": "1652808524",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/Eeayhn4"
@@ -79,7 +79,7 @@
     },
     "10": {
       "title": "The Power of the Übermensch",
-      "volume": "3",
+      "volume": "3 - Ubermensch",
       "last_updated": "1654661092",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/NffILz6"
@@ -87,10 +87,18 @@
     },
     "11": {
       "title": "Usurper",
-      "volume": "3",
+      "volume": "3 - Ubermensch",
       "last_updated": "1654809968",
       "groups": {
         "Miruguay": "/proxy/api/imgur/chapter/UMXny6i"
+      }
+    },
+    "12": {
+      "title": "The Rumbling",
+      "volume": "3 - Ubermensch",
+      "last_updated": "1654996348",
+      "groups": {
+        "Miruguay": "/proxy/api/imgur/chapter/1QaZia7"
       }
     }
   }
